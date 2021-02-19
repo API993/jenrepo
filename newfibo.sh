@@ -12,4 +12,4 @@ do
 	b=$fn 
 done
 
-echo "END         :" 
+echo "END           :" 
